@@ -2,3 +2,7 @@ html {
   height: 100%;
   width: 100%;
 }
+
+#hero {
+  background: linear-gradient(135deg, #f8e2ff 0%, #e6f0ff 100%);
+}
